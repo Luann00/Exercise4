@@ -1,8 +1,15 @@
 package qm;
 
+/*
+ * SPDX-FileCopyrightText: 2024 Luan Zekiri <luan@example.com>
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
+
 
 class MyMathsTest {
     MyMaths m;

@@ -1,5 +1,10 @@
 package qm;
 
+/*
+ * SPDX-FileCopyrightText: 2024 Luan Zekiri <Luan@example.com>
+ * SPDX-License-Identifier: MIT
+ */
+
 public class Stack {
 	
 	private int maxSize = 0;

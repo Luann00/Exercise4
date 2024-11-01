@@ -1,5 +1,10 @@
 package qm;
 
+/*
+ * SPDX-FileCopyrightText: 2024 Luan Zekiri <luan@example.com>
+ * SPDX-License-Identifier: MIT
+ */
+
 public class MyMaths {
 
 	public int gcd(int m, int n) {

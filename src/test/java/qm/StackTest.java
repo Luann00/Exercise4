@@ -3,6 +3,13 @@ package qm;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+/*
+ * SPDX-FileCopyrightText: 2024 Jane Doe <jane@example.com>
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class StackTest {
