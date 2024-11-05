@@ -84,7 +84,7 @@ Year: 2024
 ## License
 This project is licensed under the MIT License.
 
-SPDX-FileCopyrightText: 2024 Luan Zekiri luan@example.com
+SPDX-FileCopyrightText: 2024 Luan Zekiri
 SPDX-License-Identifier: MIT
 
 

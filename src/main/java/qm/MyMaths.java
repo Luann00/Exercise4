@@ -1,7 +1,7 @@
 package qm;
 
 /*
- * SPDX-FileCopyrightText: 2024 Luan Zekiri <luan@example.com>
+ * SPDX-FileCopyrightText: 2024 Luan Zekiri
  * SPDX-License-Identifier: MIT
  */
 

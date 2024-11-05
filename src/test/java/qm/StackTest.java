@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 /*
- * SPDX-FileCopyrightText: 2024 Jane Doe <jane@example.com>
+ * SPDX-FileCopyrightText: 2024 Luan Zekiri
  *
  * SPDX-License-Identifier: MIT
  */
