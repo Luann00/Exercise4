@@ -15,7 +15,7 @@ To get started with the project and write your own tests, follow these installat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your_Username/your-repository.git
 
 2. **Create a new branch to work on**:
  ```bash 
@@ -47,20 +47,20 @@ Contributions are welcome! If you would like to contribute to this project, foll
    Click on the "Fork" button at the top right corner of the repository page to create a copy of the project in your own GitHub account.
 
 2. **Clone Your Fork**:
-   Clone your forked repository to your local machine:
+   Clone your forked repository:
    ```bash
    git clone https://github.com/your_Username/your_forked_repository.git
 
-3. **Create a New Branch:**
+3. **Create a new Branch:**
    ```bash
    git checkout -b feature/Branch_Name
 
-4. **Make your changes and commit:**
+4. **Make and commit your changes:**
    ```bash
    git commit -m
 
 
-5. **Push to Your Fork:**
+5. **Push to your Fork:**
    ```bash
    git push origin feature/your_Branch_Name
    
@@ -71,11 +71,9 @@ You can also submit bug reports or feature requests on GitHub at https://github.
 
 
 ## Citation Hint
-As a large portion of this code comes from university-provided materials, with additional contributions (test classes) by myself, please credit both the university materials and my own work.
+When using this project, consider citing it as follows:
 
-Please consider citing it as follows:
-
-Author: University of Cologne, Luan Zekiri
+Author: Luan Zekiri
 Project Name: Exercise 4
 Version:1.0
 https://github.com/Luann00/Exercise4.git 
